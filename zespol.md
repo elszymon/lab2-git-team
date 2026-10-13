@@ -5,7 +5,7 @@ Nazwa zespołu: Figot Fagot
 
 ## Motto
 
-U siebie rób jak u siebie a u obcego na odpierdziel
+Moje motto jakies
 
 ## Ulubione technologie
 jakas technologia
