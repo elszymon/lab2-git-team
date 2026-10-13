@@ -1,7 +1,6 @@
 # Zespół
 
-Nazwa zespołu: zespol
-
+Nazwa zespołu: Figot Fagot
 ## Skład
 
 ## Motto
