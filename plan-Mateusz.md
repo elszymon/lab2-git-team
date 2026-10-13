@@ -5,3 +5,4 @@ a niewiem jeszcze
 1
 2
 3
+Uwaga od Szymon: Brak uwag
