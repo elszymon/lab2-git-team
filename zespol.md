@@ -16,3 +16,5 @@ U siebie rób jak u siebie a u obcego na odpierdziel!
 
 ## Ulubione technologie
 jakas technologia
+
+13.10.2026r.
