@@ -9,4 +9,4 @@ Nazwa zespołu: Figo Fago
 U siebie rób jak u siebie a u obcego na odpierdziel
 
 ## Ulubione technologie
-
+jakas technologia
