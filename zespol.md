@@ -1,6 +1,6 @@
 # Zespół
 
-Nazwa zespołu: Figo Fago
+Nazwa zespołu: Figot Fagot
 
 ## Skład
 Szymon Gromelski
