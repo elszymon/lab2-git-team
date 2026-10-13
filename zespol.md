@@ -1,9 +1,9 @@
 # Zespół
 
-Nazwa zespołu: Figo Fago
+Nazwa zespołu: zespol
 
 ## Skład
-Szymon Gromelski
+
 ## Motto
 
 U siebie rób jak u siebie a u obcego na odpierdziel
