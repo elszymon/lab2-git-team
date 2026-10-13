@@ -1,6 +1,10 @@
 # Zespół
+<<<<<<< HEAD
 
 jakis naglowek
+=======
+Mój nagłówek zespołu
+>>>>>>> main
 Nazwa zespołu: Figot Fagot
 ## Skład
 
